@@ -20,7 +20,7 @@ Utilizando técnicas de Web Scraping, Traducción, Embedding y Clustering sobre 
 
 Para una explicación detallada del funcionamiento de este proyecto, entre [aquí](https://nbviewer.org/github/vcardonas/linkedin-project/blob/main/Cuadernos/1%20Propuesta_Proyecto.ipynb)
 
-### Requerimientos de Software
+## Requerimientos de Software
 
 El proyecto se desarrolló con las siguientes versiones:
 
